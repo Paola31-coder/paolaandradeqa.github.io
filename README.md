@@ -5,6 +5,8 @@ Este es mi portafolio personal como QA ENgineer, donde presento mis habilidades,
 
 ## Tecnologías Utilizadas
 
+-Postman
+-JIRA
 - HTML
 - CSS
 - JavaScript
@@ -18,4 +20,5 @@ Este es mi portafolio personal como QA ENgineer, donde presento mis habilidades,
 ## Créditos
 
 Este portafolio está construido utilizando el repositorio de Daniel Ezekiel como base. Puedes encontrar su trabajo original [en este repositorio](https://github.com/Daniel-Ezekiel/Portfolio-Website).
+
 
